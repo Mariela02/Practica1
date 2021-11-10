@@ -1,3 +1,4 @@
 Este es el archivo de pruebas
 hola
-prueba desde master 
+<<<<<<< HEAD
+prueba desde master y develop
